@@ -1,5 +1,5 @@
 # HCIA-AI-Exam
-Hey Everyone!
+Hey Everyone!Hope you are doing well and enjoying your time.
 This repository contains all the helping material for Huawei HCIA-AI Exam. 
 This will be really helpful for those giving the HCIA-AI exam becuase most of the mcqs are covered in this repository.
 The exam will be online and it will take about 1 hour.
